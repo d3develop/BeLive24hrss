@@ -338,7 +338,7 @@
                     android:layout_height="wrap_content"
                     android:text="NEXT"
                     android:textStyle="bold"
-                    android:textSize="16dp"/>
+                    android:textSize="15dp"/>
 
             </RelativeLayout>
         </LinearLayout>
